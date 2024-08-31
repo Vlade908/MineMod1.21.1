@@ -26,6 +26,12 @@ public class ModBlocks {
                     .requiresCorrectToolForDrops()
                     .sound(SoundType.AMETHYST)));
 
+    public static final RegistryObject<Block> RAW_ALEXANDRITE_BLOCK =
+            registerBlock("raw_alexandrite_block", () -> new Block(BlockBehaviour.Properties.of()
+                    .strength(4f)
+                    .requiresCorrectToolForDrops()
+                    .sound(SoundType.AMETHYST)));
+
 
 
 

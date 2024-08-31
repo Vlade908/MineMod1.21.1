@@ -2,5 +2,9 @@
   "item.tutorialmod.alexandrite" : "Gema de Alexandrita",
   "item.tutorialmod.raw_alexandrite" : "Alexandrita Bruta ",
   "item.tutorialmod.soulstone" : "Pedra das almas",
-  "item.tutorialmod.raw_soulstone" : "Pedra das almas Bruta"
+  "item.tutorialmod.raw_soulstone" : "Pedra das almas Bruta",
+
+
+  "block.tutorialmod.alexandrite_block" : "Bloco de Alexandrita",
+  "block.tutorialmod.alexandrite_block" : "Bloco de Alexandrita Bruta"
 }
