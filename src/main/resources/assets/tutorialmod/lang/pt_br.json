@@ -1,4 +1,8 @@
 {
+  "creativetab.tutorialmod.alexandrite_items": "Itens de Alexandrite",
+  "creativetab.tutorialmod.alexandrite_blocks" : "Blocos de Alexandrite",
+
+
   "item.tutorialmod.alexandrite" : "Gema de Alexandrita",
   "item.tutorialmod.raw_alexandrite" : "Alexandrita Bruta ",
   "item.tutorialmod.soulstone" : "Pedra das almas",
@@ -6,5 +10,5 @@
 
 
   "block.tutorialmod.alexandrite_block" : "Bloco de Alexandrita",
-  "block.tutorialmod.alexandrite_block" : "Bloco de Alexandrita Bruta"
+  "block.tutorialmod.raw_alexandrite_block" : "Bloco de Alexandrita Bruta"
 }
