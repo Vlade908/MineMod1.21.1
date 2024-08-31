@@ -1,4 +1,6 @@
 {
  "item.tutorialmod.alexandrite" : "Alexandrite Gem",
-  "item.tutorialmod.soulstone" : "Soul Stone Gem"
+ "item.tutorialmod.raw_alexandrite" : "Raw Alexandrite ",
+ "item.tutorialmod.soulstone" : "Soul Stone Gem",
+ "item.tutorialmod.raw_soulstone" : "Raw Soul Stone"
 }

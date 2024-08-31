@@ -60,7 +60,9 @@ public class TutorialMod
         //adiciona o item na aba criativa de ingredientes
     if(event.getTabKey() == CreativeModeTabs.INGREDIENTS){
         event.accept(ModItems.ALEXANDRITE);
+        event.accept(ModItems.RAW_ALEXANDRITE);
         event.accept(ModItems.SOULSTONE);
+        event.accept(ModItems.RAW_SOULSTONE);
     }
 
     }
