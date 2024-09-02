@@ -1,0 +1,10 @@
+{
+  "replace" : false,
+  "values" : [
+    "tutorialmod:alexandrite_block",
+    "tutorialmod:raw_alexandrite_block",
+    "tutorialmod:alexandrite_ore",
+    "tutorialmod:raw_soulstone_block",
+    "tutorialmod:soulstone_ore"
+  ]
+}

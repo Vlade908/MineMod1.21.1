@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 1.0,
+  "group": "soulstone",
+  "ingredient": {
+    "item": "tutorialmod:raw_soulstone"
+  },
+  "result": {
+    "id": "tutorialmod:soulstone"
+  }
+}

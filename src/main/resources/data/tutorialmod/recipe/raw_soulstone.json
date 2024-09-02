@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "Category": "misc",
+  "ingredients": [
+    {
+      "item": "tutorialmod:raw_soulstone_block"
+    }
+  ],
+  "result" : {
+    "count" : 9,
+    "id" : "tutorialmod:raw_soulstone"
+  }
+}

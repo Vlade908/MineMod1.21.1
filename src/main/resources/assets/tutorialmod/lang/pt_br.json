@@ -10,5 +10,9 @@
 
 
   "block.tutorialmod.alexandrite_block" : "Bloco de Alexandrita",
-  "block.tutorialmod.raw_alexandrite_block" : "Bloco de Alexandrita Bruta"
+  "block.tutorialmod.raw_alexandrite_block" : "Bloco de Alexandrita Bruta",
+  "block.tutorialmod.alexandrite_ore" : "Minério de Alexandrite ",
+  "block.tutorialmod.alexandrite_deepslate_ore" : "Minério de Alexandrite de ardósia ",
+  "block.tutorialmod.soulstone_ore" : "Minério de Pedra das Almas ",
+  "block.tutorialmod.soulstone_deepslate_ore" : "Minério de Pedra das Almas de ardósia "
 }
